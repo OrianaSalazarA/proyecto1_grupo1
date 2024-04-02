@@ -1,17 +1,20 @@
 ![Header PyGames by PlayDev](https://github.com/eaguilag/testing-git/blob/main/assets/pygames-playdev-readme-header.png)
 
-# PyGames: Juegos clásicos en Python  
+# PyGames: Juegos clásicos en Python
+*Un proyecto desarrollado por PlayDev para Adalab*
 
 Este proyecto incluye tres juegos tradicionales implementados en Python:
 - Piedra, Papel o Tijera
 - El Ahorcado
 - Preguntas y Respuestas
 
+
 ## Requisitos Técnicos:
 
 - Python
 - Jupyter Notebook
 - Navegador web
+
 
 ## Instrucciones de Uso:
 
@@ -47,6 +50,9 @@ Vencer a la computadora eligiendo entre las opciones piedra, papel o tijera.
 6. **Ganar el juego:** El primero que gana 3 puntos gana el juego.
 7. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
 
+![Imagen del juego Piedra, Papel o Tijera](https://github.com/eaguilag/testing-git/blob/main/assets/piedra-papel-tijera-1.JPG)
+
+
 ### El Ahorcado:
 **Objetivo:**
 Adivinar la palabra oculta antes de que se complete el dibujo del ahorcado. Tienes un número limitado de intentos para adivinar correctamente todas las letras de la palabra.
@@ -60,6 +66,9 @@ Adivinar la palabra oculta antes de que se complete el dibujo del ahorcado. Tien
 7. **Perder el juego:** Si el dibujo del ahorcado se completa antes de adivinar la palabra, perderás el juego.
 8. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
 
+![Imagen del juego El Ahorcado](https://github.com/eaguilag/testing-git/blob/main/assets/el-ahorcado-1.JPG)
+
+
 ### Preguntas y Respuestas:
 **Objetivo:**
 Responder correctamente a una serie de preguntas. Cada pregunta tiene una única respuesta correcta. Intenta responder correctamente a todas las preguntas. Consigue al menos 5 puntos y supera el desafío del juego.
@@ -72,16 +81,21 @@ Responder correctamente a una serie de preguntas. Cada pregunta tiene una única
 6. **Perder el juego:** Si fallas 3 veces perderás el juego.
 7. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
 
+![Imagen del juego Preguntas y Respuestas](https://github.com/eaguilag/testing-git/blob/main/assets/preguntas-y-respuestas-1.JPG)
+
+
 ## Contribución
 Si deseas contribuir a este proyecto, siéntete libre de enviar un `pull request`. Cualquier mejora o corrección será bienvenida.
 
+
 ## Créditos
-Estos juegos fueron desarrollados por:
+Estos juegos fueron desarrollados por el equipo PlayDev:
 
 - Jessica Moreaux Cueto [@jessicamxc](https://github.com/jessicamxc)
 - Raquel Pedraza Sánchez [@RaquelPedraza](https://github.com/RaquelPedraza)
 - Oriana Salazar Alonzo [@OrianaSalazarA](https://github.com/OrianaSalazarA/)
 - Elena Águila García [@eaguilag](https://github.com/eaguilag)
+
 
 ### Licencia
 Este proyecto está bajo la licencia MIT.
