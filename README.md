@@ -50,6 +50,7 @@ Vencer a la computadora eligiendo entre las opciones piedra, papel o tijera.
 6. **Ganar el juego:** El primero que gana 3 puntos gana el juego.
 7. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
 
+
 ![Imagen del juego Piedra, Papel o Tijera](https://github.com/eaguilag/testing-git/blob/main/assets/piedra-papel-tijera-1.JPG)
 
 
@@ -58,13 +59,21 @@ Vencer a la computadora eligiendo entre las opciones piedra, papel o tijera.
 Adivinar la palabra oculta antes de que se complete el dibujo del ahorcado. Tienes un número limitado de intentos para adivinar correctamente todas las letras de la palabra.
 
 1. **Inicio del juego:** Al abrir el Jupyter Notebook, deberás de ejecutar el código correspondiente para empezar el juego. En pantalla, se mostrarán las reglas y el dibujo parcial del ahorcado.
+
 2. **Adivinar una letra:** Elige una letra para saber si se encuentra en la palabra.
+
 3. **Intentos restantes:** Tienes un número limitado de intentos antes completar el dibujo del ahorcado.
+
 4. **Letras correctas:** Si adivinas una letra correctamente, se mostrará en los espacios correspondientes de la palabra oculta.
+
 5. **Letras incorrectas:** Si eliges una letra incorrecta, se añadirá una parte del dibujo del ahorcado.
+
 6. **Completar la palabra:** Intenta adivinar todas las letras de la palabra oculta antes de que se complete el dibujo del ahorcado. Si lo logras, ¡ganarás el juego!
+
 7. **Perder el juego:** Si el dibujo del ahorcado se completa antes de adivinar la palabra, perderás el juego.
+
 8. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
+
 
 ![Imagen del juego El Ahorcado](https://github.com/eaguilag/testing-git/blob/main/assets/el-ahorcado-1.JPG)
 
@@ -74,12 +83,19 @@ Adivinar la palabra oculta antes de que se complete el dibujo del ahorcado. Tien
 Responder correctamente a una serie de preguntas. Cada pregunta tiene una única respuesta correcta. Intenta responder correctamente a todas las preguntas. Consigue al menos 5 puntos y supera el desafío del juego.
 
 1. **Inicio del juego:** Al abrir el Jupyter Notebook, deberás de ejecutar el código correspondiente para empezar el juego. Se mostrará en pantalla la primera pregunta a la que deberás de responder.
+
 2. **Introducir respuesta:** Introduce la respuesta que creas que es correcta para la pregunta que se muestra.
+
 3. **Respuesta correcta:** Si introduces la respuesta correcta, pasarás a la siguiente pregunta y ganarás un punto.
+
 4. **Respuesta incorrecta:** Si introduces una respuesta incorrecta, el juego te informará que la respuesta es incorrecta y acumularás un fallo.
+
 5. **Ganar el juego:** Cuando llegues a los 5 puntos ganarás la partida.
+
 6. **Perder el juego:** Si fallas 3 veces perderás el juego.
+
 7. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
+
 
 ![Imagen del juego Preguntas y Respuestas](https://github.com/eaguilag/testing-git/blob/main/assets/preguntas-y-respuestas-1.JPG)
 
