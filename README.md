@@ -43,11 +43,17 @@ Vencer a la computadora eligiendo entre las opciones piedra, papel o tijera.
 - Tijera corta Papel.
 
 1. **Inicio del juego:** Al abrir el Jupyter Notebook, deberás de ejecutar el código correspondiente para empezar el juego.
+
 2. **Elige tu jugada:** Elige entre las tres opciones mostradas: Piedra, Papel o Tijera.
+
 3. **La computadora elige:** Después de que hayas elegido, la computadora hará su elección de forma aleatoria.
+
 4. **Resultado:** Una vez que ambos hayan elegido, se mostrará el resultado en pantalla.
+
 5. **Ganar la ronda:** Se mostrará quién fue el ganador de esa ronda o si hubo un empate. Quien gane, jugador o computadora, acumula un punto.
+
 6. **Ganar el juego:** El primero que gana 3 puntos gana el juego.
+
 7. **Volver a jugar:** Después de ganar o perder el juego, elige si quieres jugar otra partida.
 
 
