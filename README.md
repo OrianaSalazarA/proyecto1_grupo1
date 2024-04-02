@@ -1,3 +1,5 @@
+![Header PyGames by PlayDev](https://github.com/eaguilag/testing-git/blob/main/assets/pygames-playdev-readme-header.png)
+
 # PyGames: Juegos clásicos en Python  
 
 Este proyecto incluye tres juegos tradicionales implementados en Python:
